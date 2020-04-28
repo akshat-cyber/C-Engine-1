@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Game dev.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Entity.cpp
+Entity.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall Entity::~Entity(void)" (??1Entity@@UAE@XZ) referenced in function "public: virtual void * __thiscall Entity::`scalar deleting destructor'(unsigned int)" (??_GEntity@@UAEPAXI@Z)
+C:\Users\gistg\Desktop\Advance C++\Engine\Debug\Engine.exe : fatal error LNK1120: 1 unresolved externals
